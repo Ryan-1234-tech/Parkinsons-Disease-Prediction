@@ -37,8 +37,3 @@ Model evaluation using accuracy, precision, recall, and a confusion matrix
 Model
 
 The Support Vector Machine classifier is used because it handles high-dimensional data effectively and provides clear decision boundaries for classification tasks.
-
-
-Results
-
-The SVM model performs well on the dataset and serves as a solid baseline for predicting Parkinson’s Disease using vocal features.
